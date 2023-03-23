@@ -1,11 +1,11 @@
-#include "comwidget.h"
-#include "ui_comwidget.h"
-#include <QDebug>
+//本地
 #include <QStringList>
 #include <QHash>
+#include "comwidget.h"
+#include <QDebug>
 #include <QMenu>
 
-// 又返回了啦  提交更改  更新于 2023.3.23 哈哈哈哈
+// 写错啦 又返回了啦  提交更改  更新于 2023.3.23 哈哈哈哈
 
 
 comWidget::comWidget(QWidget *parent) :
